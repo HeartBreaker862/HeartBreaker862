@@ -138,6 +138,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HeartBreaker862.HeartBreaker862&"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
 
 ###
 
