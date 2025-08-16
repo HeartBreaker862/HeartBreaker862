@@ -135,21 +135,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HeartBreaker862.HeartBreaker862&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeartBreaker862&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="70" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HeartBreaker862&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=HeartBreaker862&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HeartBreaker862.HeartBreaker862&"  />
 </div>
 
 ###
