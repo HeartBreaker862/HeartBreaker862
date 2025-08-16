@@ -138,11 +138,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HeartBreaker862.HeartBreaker862&"  />
 </div>
 
-###
-
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5ggmyz5ec0ys1ql8v2gm6ji16&unique={true|1|on|yes})
-</div>
 
 ###
 
